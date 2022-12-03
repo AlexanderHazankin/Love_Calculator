@@ -1,7 +1,7 @@
-# Love_Calculator
- This is one of my exercises from Udemy online Course: "100 Days of Code: The Complete Python Pro Bootcamp for 2022" by Dr. Angela Yu
+# Love Calculator
 
-This is a program that checks the compatibility between two people.
+A program that checks the compatibility between two people.
+
 To calculate the love score between two people:
 As input, the program asks for the names of both people and checks how many times the letters occur in the word TRUE.
 Then it checks how many times the letters appear in the word LOVE.
@@ -12,3 +12,5 @@ For a love rating between 40 and 50, the output message should be:
 "Your score is **y**, you're good together."
 Otherwise, the message will simply be their score. For example.:
 "Your score is **z**."
+
+This is one of my exercises from Udemy online Course: "100 Days of Code: The Complete Python Pro Bootcamp for 2022" by Dr. Angela Yu
